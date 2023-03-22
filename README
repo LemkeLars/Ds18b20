@@ -1,12 +1,14 @@
-DS18B20 Temperatursensor Bibliothek für Mbed
+DS18B20 Temperature Sensor Library for Mbed
 
-Dieses Repository enthält eine Bibliothek für den DS18B20 Temperatursensor, die für mbed Controller optimiert ist. Die Bibliothek ermöglicht es Ihnen, schnell und einfach die Temperaturwerte des Sensors in Ihrem mbed-Projekt auszulesen.
+This repository contains a library for the DS18B20 temperature sensor optimized for mbed controllers. The library allows you to quickly and easily read the temperature values of the sensor in your mbed project.
 
 Installation
-Um diese Bibliothek zu verwenden, fügen Sie bitte das "DS18B20" Verzeichnis zu Ihrem mbed Projekt hinzu und importieren Sie die Bibliothek in Ihrem Programm.
+To use this library, please add the "DS18B20" directory to your mbed project and import the library into your program.
 
-Beispiele
-In dem Ordner "examples" finden Sie ein Beispielprojekt, das die Verwendung der Bibliothek demonstriert.
+Examples
+In the "examples" folder you can find an example project that demonstrates how to use the library.
 
-Lizenz
-Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe LICENSE.md für weitere Details.
+License
+This project is licensed under the MIT license - see LICENSE.md for more details.
+
+Translated with www.DeepL.com/Translator (free version)
